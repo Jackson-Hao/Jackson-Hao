@@ -1,11 +1,12 @@
-<h3 align="center">Hi 👋, This is Jackson Hao</h3>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20is%20Jackson%20Hao&fontSize=90&animation=fadeIn&fontAlignY=38&desc=心有所向，日复一日，必有精进&descAlignY=60&descAlign=50"/>
+</p>
 
-<div align="center">
-<b>心有所向，日复一日，必有精进</b><br><br>
-
-个人网站: [jackson-hao.github.io](https://jackson-hao.github.io)<br>
-</div>
-
+### 💻 个人网站: [jackson-hao.github.io](https://jackson-hao.github.io)
+<div align='center'>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC1DA&center=true&width=435&lines=Make+it+Possible" alt="Typing SVG" />
+    </a>
 </div>
 
 ### 📈 Github Statistics
@@ -18,5 +19,9 @@
     <span>&emsp;&emsp;</span>
 </div>
 
-### 📈 Github Activities
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Jackson-Hao&theme=dracula)
+### 📈 Github Grade
+<div align="center">
+    
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Jackson-Hao)
+
+</div>
