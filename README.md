@@ -17,3 +17,6 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Hao&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+
+### 📈 Github Activities
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Jackson-Hao&theme=dracula)
