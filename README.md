@@ -2,11 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20is%20Jackson%20Hao&fontSize=90&animation=fadeIn&fontAlignY=38&desc=心有所向，日复一日，必有精进&descAlignY=60&descAlign=50"/>
 </p>
 
-### 💻 个人网站: [jackson-hao.github.io](https://jackson-hao.github.io)
+### [💻 个人网站: ](https://jackson-hao.github.io)
 <div align='center'>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC1DA&center=true&width=600&lines=Leap+Further+Ahead" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=300&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Leap+Further+Ahead" alt="Typing SVG" /></a>
 </div>
 
 ### 📈 Github Statistics
