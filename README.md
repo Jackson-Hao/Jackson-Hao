@@ -5,7 +5,7 @@
 ### 💻 个人网站: [jackson-hao.github.io](https://jackson-hao.github.io)
 <div align='center'>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC1DA&center=true&width=435&lines=Make+it+Possible" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC1DA&center=true&width=600&lines=Leap+Further+Ahead" alt="Typing SVG" />
     </a>
 </div>
 
