@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20is%20Jackson%20Hao&fontSize=90&animation=fadeIn&fontAlignY=38&desc=心有所向，日复一日，必有精进&descAlignY=60&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=This%20is%20Jackson%20Hao&fontSize=90&animation=fadeIn&fontAlignY=38&desc=永远相信美好的事情即将发生&descAlignY=60&descAlign=50"/>
 </p>
 
 ### [💻 个人网站: ](https://jackson-hao.github.io)
